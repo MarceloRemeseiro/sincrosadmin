@@ -1,0 +1,11 @@
+/* En src/styles/fonts.css */
+@font-face {
+    font-family: 'Neuropol';
+    src: url('/fonts/Neuropol.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+body {
+    font-family: 'Neuropol', sans-serif;
+}

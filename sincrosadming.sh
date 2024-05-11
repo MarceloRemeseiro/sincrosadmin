@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Nombres fijos
-CONTAINER_NAME=streamingpro # Nombre del contenedor
-IMAGE_NAME=streamingpro # Nombre de la imagen
+CONTAINER_NAME=sincrosadmin # Nombre del contenedor
+IMAGE_NAME=sincrosadmin # Nombre de la imagen
 PORT=1001:8080  # Puerto de la aplicación
 SCRIPT_DIR=$(dirname "$0")  # Obtiene el directorio del script
 
